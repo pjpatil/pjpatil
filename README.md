@@ -11,6 +11,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj J Patil</h1>
 
 <h3 align="center"> 🔭 I’m currently looking for Full Time Job opportunity.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- start new  -->
 
@@ -21,7 +22,6 @@
 - 📫 How to reach me **pankajjpatil2001@gmail.com**
 
 <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1N5Qa3d9vAG42UigigtZ6OtJEdI9yZXDF/view?usp=sharing](https://drive.google.com/file/d/1N5Qa3d9vAG42UigigtZ6OtJEdI9yZXDF/view?usp=sharing)-->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
