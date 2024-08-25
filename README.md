@@ -16,7 +16,7 @@
 
 <!-- 🔭 I’m currently working on [RestoBaba](https://restobaba.onrender.com/)-->
 
-- 💬 Ask me about ** Java Full Stack Developement, Frontend Developement **
+- 💬 Ask me about **Java Full Stack Developement, Frontend Developement**
 
 - 📫 How to reach me **pankajjpatil2001@gmail.com**
 
