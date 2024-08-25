@@ -16,11 +16,12 @@
 
 <!-- 🔭 I’m currently working on [RestoBaba](https://restobaba.onrender.com/)-->
 
-- 💬 Ask me about **Frontend Developement,Java FullStack Developement**
+- 💬 Ask me about **Java Full Stack Developement , Frontend Developement **
 
 - 📫 How to reach me **pankajjpatil2001@gmail.com**
 
 <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1N5Qa3d9vAG42UigigtZ6OtJEdI9yZXDF/view?usp=sharing](https://drive.google.com/file/d/1N5Qa3d9vAG42UigigtZ6OtJEdI9yZXDF/view?usp=sharing)-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
